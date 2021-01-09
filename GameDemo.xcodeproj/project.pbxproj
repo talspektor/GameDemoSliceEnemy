@@ -9,23 +9,43 @@
 /* Begin PBXBuildFile section */
 		43541B3225A8A14700D4B454 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43541B3125A8A14700D4B454 /* AppDelegate.swift */; };
 		43541B3425A8A14700D4B454 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 43541B3325A8A14700D4B454 /* GameScene.sks */; };
-		43541B3625A8A14700D4B454 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 43541B3525A8A14700D4B454 /* Actions.sks */; };
 		43541B3825A8A14700D4B454 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43541B3725A8A14700D4B454 /* GameScene.swift */; };
 		43541B3A25A8A14700D4B454 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43541B3925A8A14700D4B454 /* GameViewController.swift */; };
 		43541B3D25A8A14700D4B454 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43541B3B25A8A14700D4B454 /* Main.storyboard */; };
 		43541B3F25A8A14700D4B454 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43541B3E25A8A14700D4B454 /* Assets.xcassets */; };
+		43541B5325A8A23400D4B454 /* launch.caf in Resources */ = {isa = PBXBuildFile; fileRef = 43541B4825A8A23300D4B454 /* launch.caf */; };
+		43541B5425A8A23400D4B454 /* sliceHitBomb.sks in Resources */ = {isa = PBXBuildFile; fileRef = 43541B4925A8A23300D4B454 /* sliceHitBomb.sks */; };
+		43541B5525A8A23400D4B454 /* swoosh1.caf in Resources */ = {isa = PBXBuildFile; fileRef = 43541B4A25A8A23300D4B454 /* swoosh1.caf */; };
+		43541B5625A8A23400D4B454 /* explosion.caf in Resources */ = {isa = PBXBuildFile; fileRef = 43541B4B25A8A23300D4B454 /* explosion.caf */; };
+		43541B5725A8A23400D4B454 /* swoosh3.caf in Resources */ = {isa = PBXBuildFile; fileRef = 43541B4C25A8A23300D4B454 /* swoosh3.caf */; };
+		43541B5825A8A23400D4B454 /* whack.caf in Resources */ = {isa = PBXBuildFile; fileRef = 43541B4D25A8A23300D4B454 /* whack.caf */; };
+		43541B5925A8A23400D4B454 /* wrong.caf in Resources */ = {isa = PBXBuildFile; fileRef = 43541B4E25A8A23400D4B454 /* wrong.caf */; };
+		43541B5A25A8A23400D4B454 /* sliceHitEnemy.sks in Resources */ = {isa = PBXBuildFile; fileRef = 43541B4F25A8A23400D4B454 /* sliceHitEnemy.sks */; };
+		43541B5B25A8A23400D4B454 /* sliceFuse.sks in Resources */ = {isa = PBXBuildFile; fileRef = 43541B5025A8A23400D4B454 /* sliceFuse.sks */; };
+		43541B5C25A8A23400D4B454 /* swoosh2.caf in Resources */ = {isa = PBXBuildFile; fileRef = 43541B5125A8A23400D4B454 /* swoosh2.caf */; };
+		43541B5D25A8A23400D4B454 /* sliceBombFuse.caf in Resources */ = {isa = PBXBuildFile; fileRef = 43541B5225A8A23400D4B454 /* sliceBombFuse.caf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		43541B2E25A8A14700D4B454 /* GameDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GameDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43541B3125A8A14700D4B454 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		43541B3325A8A14700D4B454 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		43541B3525A8A14700D4B454 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		43541B3725A8A14700D4B454 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		43541B3925A8A14700D4B454 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		43541B3C25A8A14700D4B454 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		43541B3E25A8A14700D4B454 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		43541B4025A8A14700D4B454 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43541B4825A8A23300D4B454 /* launch.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = launch.caf; sourceTree = "<group>"; };
+		43541B4925A8A23300D4B454 /* sliceHitBomb.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = sliceHitBomb.sks; sourceTree = "<group>"; };
+		43541B4A25A8A23300D4B454 /* swoosh1.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = swoosh1.caf; sourceTree = "<group>"; };
+		43541B4B25A8A23300D4B454 /* explosion.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = explosion.caf; sourceTree = "<group>"; };
+		43541B4C25A8A23300D4B454 /* swoosh3.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = swoosh3.caf; sourceTree = "<group>"; };
+		43541B4D25A8A23300D4B454 /* whack.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = whack.caf; sourceTree = "<group>"; };
+		43541B4E25A8A23400D4B454 /* wrong.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = wrong.caf; sourceTree = "<group>"; };
+		43541B4F25A8A23400D4B454 /* sliceHitEnemy.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = sliceHitEnemy.sks; sourceTree = "<group>"; };
+		43541B5025A8A23400D4B454 /* sliceFuse.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = sliceFuse.sks; sourceTree = "<group>"; };
+		43541B5125A8A23400D4B454 /* swoosh2.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = swoosh2.caf; sourceTree = "<group>"; };
+		43541B5225A8A23400D4B454 /* sliceBombFuse.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sliceBombFuse.caf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,12 +80,22 @@
 			children = (
 				43541B3125A8A14700D4B454 /* AppDelegate.swift */,
 				43541B3325A8A14700D4B454 /* GameScene.sks */,
-				43541B3525A8A14700D4B454 /* Actions.sks */,
 				43541B3725A8A14700D4B454 /* GameScene.swift */,
 				43541B3925A8A14700D4B454 /* GameViewController.swift */,
 				43541B3B25A8A14700D4B454 /* Main.storyboard */,
 				43541B3E25A8A14700D4B454 /* Assets.xcassets */,
 				43541B4025A8A14700D4B454 /* Info.plist */,
+				43541B4B25A8A23300D4B454 /* explosion.caf */,
+				43541B4825A8A23300D4B454 /* launch.caf */,
+				43541B5225A8A23400D4B454 /* sliceBombFuse.caf */,
+				43541B5025A8A23400D4B454 /* sliceFuse.sks */,
+				43541B4925A8A23300D4B454 /* sliceHitBomb.sks */,
+				43541B4F25A8A23400D4B454 /* sliceHitEnemy.sks */,
+				43541B4A25A8A23300D4B454 /* swoosh1.caf */,
+				43541B5125A8A23400D4B454 /* swoosh2.caf */,
+				43541B4C25A8A23300D4B454 /* swoosh3.caf */,
+				43541B4D25A8A23300D4B454 /* whack.caf */,
+				43541B4E25A8A23400D4B454 /* wrong.caf */,
 			);
 			path = GameDemo;
 			sourceTree = "<group>";
@@ -128,9 +158,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				43541B3D25A8A14700D4B454 /* Main.storyboard in Resources */,
+				43541B5725A8A23400D4B454 /* swoosh3.caf in Resources */,
+				43541B5825A8A23400D4B454 /* whack.caf in Resources */,
+				43541B5625A8A23400D4B454 /* explosion.caf in Resources */,
+				43541B5325A8A23400D4B454 /* launch.caf in Resources */,
 				43541B3425A8A14700D4B454 /* GameScene.sks in Resources */,
 				43541B3F25A8A14700D4B454 /* Assets.xcassets in Resources */,
-				43541B3625A8A14700D4B454 /* Actions.sks in Resources */,
+				43541B5425A8A23400D4B454 /* sliceHitBomb.sks in Resources */,
+				43541B5A25A8A23400D4B454 /* sliceHitEnemy.sks in Resources */,
+				43541B5925A8A23400D4B454 /* wrong.caf in Resources */,
+				43541B5525A8A23400D4B454 /* swoosh1.caf in Resources */,
+				43541B5B25A8A23400D4B454 /* sliceFuse.sks in Resources */,
+				43541B5D25A8A23400D4B454 /* sliceBombFuse.caf in Resources */,
+				43541B5C25A8A23400D4B454 /* swoosh2.caf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,7 +331,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = talspektor.GameDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -309,7 +349,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = talspektor.GameDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
